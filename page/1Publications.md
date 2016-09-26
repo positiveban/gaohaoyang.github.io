@@ -12,6 +12,8 @@ icon: bookmark
 
 ## Conference Articles
 
+## Projects
+
 ## Talks
 
 ## Lectures
