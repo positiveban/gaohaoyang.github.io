@@ -2,7 +2,7 @@
 layout: post
 title:  "H-infinity Theory"
 date:   2016-09-27 3:58:54
-categories: Robust Control
+categories: Robust-Control
 tags: H-infinity
 excerpt: How can we reduce the influence of external disturbances to controlled output?
 ---
