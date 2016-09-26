@@ -13,7 +13,12 @@ icon: heart
 He is currently Ph.D Candidate of Eletrical Engineering Department of POSTECH in Korea.
 His research interest is Hybrid systems, Robust control, and Convex Optimization.
 
-* 2004~2012 B.S in Ajou University
+* 2012~current:  Ph.D Candidate in POSTECH
+* 2004~2012:     B.S in Ajou University
+
+## Selected Publications
+
+## Curriculum Vitae
 
 ## Contact
 
