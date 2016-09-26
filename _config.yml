@@ -7,14 +7,13 @@
 
 # Site settings
 title: APIMITAR
-brief-intro: System and Control Engineer
+brief-intro: Systems and Control Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://positiveban.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
 facebook_username: banjp117
 github_username:  positiveban
 email: banjp117@posteh.ac.kr
