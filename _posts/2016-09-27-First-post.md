@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "마크다운 문법익히기"
+date:   2016-09-27 3:58:54
+categories: 마크다운
+tags: Language
+excerpt: Markdown 문법을 연습해보자
+---
+
 # 마크다운 문법 익히기
 
 ## 번호없는 리스트
