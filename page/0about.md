@@ -25,5 +25,3 @@ His research interest is Hybrid systems, Robust control, and Convex Optimization
 * Address: 304 LG building, POSTECH, 77 Cheongam-ro, Nam-Gu, Pohang, Gyeongbuk, Koera, 37673.
 * TEL: +82-54-279-5018
 * email: banjp117(at)postech.ac.kr
-
-{% include comments.html %}
