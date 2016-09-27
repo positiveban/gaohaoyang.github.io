@@ -12,3 +12,4 @@ excerpt: Markdown 수식을 입력해보자
 $$ \begin{equation}
 \dot{x}=Ax+Bu
 \end{equation}
+$$
