@@ -25,5 +25,5 @@
 [구글](http://www.google.com)  
 
 ## 이미지 삽입
-![apricot](https://en.wikipedia.org/wiki/Apricot#/media/File:Apricot_and_cross_section.jpg)
+![apricot](./imgs/apricot.jpg)
 
