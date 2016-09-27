@@ -19,6 +19,11 @@ icon: bookmark
 * Ban, J., Lee, J., Won, S. *Synchronization of two different chaotic systems using terminal sliding mode with disturbance observer* (2013) Proceedings of the SICE Annual Conference, pp. 2575-2580. 
 
 ### Projects
+* Lighting for Vision System 알고리즘 개발, 삼성중공업 (16.05~16.08)
+* PLC를 활용한 FM판쏠림 실시간 제어 기술 개발, POSCO (14.12~15.09)
+* 히트펌프 제어 알고리즘을 이용한 임베디드 보드 개발, BnF Solution (13.10~14.10)
+* 실내 기류제어를 위한 3차원 공간 온도분포 추정 알고리즘 개발, LG Electronics (13.01~13.12)
+* 1 Piston rotary compressor 구동을 위한 active torque controller 개발, LG Electronics (12.02~12.07)
 
 ### Talks
 
