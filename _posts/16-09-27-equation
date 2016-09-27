@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "마크다운 수식입력하기"
+date:   2016-09-27 17:19:30
+categories: 마크다운
+tags: Language
+excerpt: Markdown 수식을 입력해보자
+---
+
+# Latex syntax가 지원된다고 하니 한번 써 보자
+
+$$ \begin{equation}
+\dot{x}=Ax+Bu
+\end{equation}
