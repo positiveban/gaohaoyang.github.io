@@ -25,5 +25,5 @@
 [구글](http://www.google.com)  
 
 ## 이미지 삽입
-![apricot](./imgs/apricot.jpg)
+![apricot](../imgs/apricot.jpg)
 
