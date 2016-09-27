@@ -25,6 +25,6 @@
 [구글](http://www.google.com)  
 
 ## 이미지 삽입
-<img width="400"></img> 
+<img width="400">
 ![apricot](../imgs/apricot.jpg)
-
+</img> 
