@@ -7,10 +7,11 @@ icon: bookmark
 
 * content
 {:toc}
+## Articles
 
-## Journal Articles
+### Journal Articles
 
-## Conference Articles
+### Conference Articles
 
 ## Projects
 
