@@ -7,17 +7,16 @@ icon: bookmark
 
 * content
 {:toc}
-## Articles
 
 ### Journal Articles
 
 ### Conference Articles
 
-## Projects
+### Projects
 
-## Talks
+### Talks
 
-## Lectures
+### Lectures
 
 
 {% include comments.html %}
