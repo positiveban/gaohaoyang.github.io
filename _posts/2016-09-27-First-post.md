@@ -34,4 +34,4 @@ excerpt: Markdown 문법을 연습해보자
 [구글](http://www.google.com)  
 
 ## 이미지 삽입
-![apricot](~/imgs/apricot.jpg)
+![apricot](../imgs/apricot.jpg)
