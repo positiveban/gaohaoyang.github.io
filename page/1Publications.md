@@ -18,5 +18,3 @@ icon: bookmark
 
 ### Lectures
 
-
-{% include comments.html %}
