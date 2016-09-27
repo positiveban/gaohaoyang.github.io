@@ -28,4 +28,5 @@ icon: bookmark
 ### Talks
 
 ### Lectures
-
+* Teaching Assistant: Capstone Project (2016-2)
+* Teaching Assistant: Introduction to Automatic Control (2012-1)
