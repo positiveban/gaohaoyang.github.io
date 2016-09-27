@@ -22,10 +22,8 @@
 
 ## 링크서식
 [네이버](http://www.naver.com)  
-[네이버로 갑니다][네이버]
-[네이버]:http://www.naver.com
-[구글][]
+[구글](http://www.google.com)  
 
 ## 이미지 삽입
-![apricot](http://globe-views.com/dcim/dreams/apricot/apricot-01.jpg)
+![apricot](https://en.wikipedia.org/wiki/Apricot#/media/File:Apricot_and_cross_section.jpg)
 
