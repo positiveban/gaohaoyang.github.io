@@ -5,9 +5,6 @@ permalink: /publications/
 icon: bookmark
 ---
 
-*content
-{:toc}
-
 ### Journal Articles
 
 ### Conference Articles
