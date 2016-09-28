@@ -5,7 +5,7 @@ permalink: /publications/
 icon: bookmark
 ---
 
-* content
+*content
 {:toc}
 
 ### Journal Articles
