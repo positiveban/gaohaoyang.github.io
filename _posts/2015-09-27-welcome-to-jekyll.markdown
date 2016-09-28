@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to Jekyll"
-date:   2016-09-27 3:58:54
 categories: 
 tags: 
 excerpt: This is the first post!
