@@ -71,16 +71,16 @@ English is a language with which we can communicate (o)
 that: 선행사가 특정한 명사나 대명사
 which: 선행사가 특정한 명사, 대명사, 앞문장 전체 혹은 일부
 
-* 앞 문장 전체가 선행사 인 경우
+* 앞 문장 전체가 선행사 인 경우  
 Andy was slient[, which was unusual with him.]  
 앤디는 침묵을 유지했는데, 그것은(그가 침묵을 유지한 것) 그에게는 생소한 일이었다.  
 즉, 앤디는 [여느때의 그와는 다르게] 침묵을 유지했다. 
 
-* 앞 문장의 일부를 선행사로 갖는 경우
+* 앞 문장의 일부를 선행사로 갖는 경우  
 He is _rich_[, which I unfornunately am not.]  
 그는 부유한데, [불행히도 나는 그렇지 못하다.]  
 
-* 앞 문장의 동사를 선행사로 갖는 경우
+* 앞 문장의 동사를 선행사로 갖는 경우  
 The ghost beckoned Scrooge _to approach_[, which he _did_.]  
 유령이 스크루지에게 가까이 오라고 손짓을 하자, 그는 _그렇게_ 했다.
 
