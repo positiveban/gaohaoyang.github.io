@@ -10,7 +10,7 @@ excerpt: 항상 헷갈리는 that과 which. 어떤 차이가 있을까?
 언제 that을, 언제 which를 사용하는지 정리해보자.
 
 1. Restrictive (that) vs. Unrestrictive (which)
-한글로 하면 제한적 용법, 계속적 용법이라고 한다.
+한글로 하면 제한적 용법, 계속적 용법이라고 한다. 
 that은 제한적 용법에 사용, which는 계속적 용법에 사용한다고 하는데, 아래 예문을 보자.
 
 
