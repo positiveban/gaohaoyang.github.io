@@ -43,8 +43,27 @@ that은 제한적 용법에 사용, which는 계속적 용법에 사용한다고
 [예문출처](http://www.getitwriteonline.com/archive/103103whichthat.htm)
 
 
-### 2. 관계대명사 that에서 주의할 점
+### 2. 관계대명사 that & which
 
+* 선행사  
+````
+that: 사물,사람, or 사물+사람  
+which: 사물 only
+````
 
+* that 앞에는 comma 사용 X, 즉 계속적 용법으로 사용 X  
+````
+The classrooms that were painted over the summer are bright and cheerful.  (o)
+The classrooms which were painted over the summer are bright and cheerful.  (o)
+The classrooms, that were painted over the summer, are bright and cheerful.  (x)
+The classrooms, which were painted over the summer, are bright and cheerful.  (o)
+````
+
+* that은 전치사 다음에 쓸 수 없다
+````
+English is a language with that we can communicate (x)
+English is a language that we can communicate with (o)
+English is a language with which we can communicate (o)
+````
 
 ### 3. 앞문장 전체를 선행사로 갖는 관계대명사 which
