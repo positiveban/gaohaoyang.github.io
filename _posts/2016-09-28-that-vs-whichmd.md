@@ -13,8 +13,8 @@ excerpt: 항상 헷갈리는 that과 which. 어떤 차이가 있을까?
 한글로 하면 제한적 용법, 계속적 용법이라고 한다.  
 that은 제한적 용법에 사용, which는 계속적 용법에 사용한다고 하는데, 아래 예문을 보자.
 
-* **1-1. Our house [that has a red door and a green roof] needs painting.
-* 1-2. Our house, [which has a red door and a green roof], needs painting.**
+* **1-1. Our house [that has a red door and a green roof] needs painting.**
+* **1-2. Our house, [which has a red door and a green roof], needs painting.**
 
 예문 1-1, 1-2는 비슷해보이지만 해석에 조금의 차이가 있다.
 1-1 예문의 경우, "(우리집이 여러개 있는데, 그 중에) 빨간 문과 녹색 지붕을 가진 우리집은 도색이 필요하다." 라는 뜻으로 해석이 된다.  
@@ -25,8 +25,8 @@ that은 제한적 용법에 사용, which는 계속적 용법에 사용한다고
 
 다른 예문을 보자.
 
-* **2-1. The classrooms [that were painted over the summer] are bright and cheerful. 
-* 2-2. The classrooms, [which were painted over the summer], are bright and cheerful.** 
+* **2-1. The classrooms [that were painted over the summer] are bright and cheerful.**
+* **2-2. The classrooms, [which were painted over the summer], are bright and cheerful.** 
 
 2-1은 (교내에) 많은 교실 가운데서 여름에 도색이 된 (일부)교실이 밝고 상쾌하다.  
 2-2의 경우 (앞에서 언급한 모든) 교실은 밝고 상쾌하다. 그런데 그 교실은 여름에 도색이 되었다.
