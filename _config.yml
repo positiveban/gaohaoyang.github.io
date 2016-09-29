@@ -7,7 +7,7 @@
 
 # Site settings
 title: APIMITAR
-brief-intro: Systems and Control Blog
+brief-intro: Control and Systems Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://positiveban.github.io" # the base hostname & protocol for your site
 encoding: utf-8
