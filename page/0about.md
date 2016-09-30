@@ -5,9 +5,6 @@ permalink: /about/
 icon: heart
 ---
 
-* content
-{:toc}
-
 ## Jaepil Ban
 
 He is currently Ph.D Candidate of Eletrical Engineering Department of POSTECH in Korea.
