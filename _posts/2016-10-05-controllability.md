@@ -47,6 +47,6 @@ Continuous-time system에서 Controllability와 Reachability는 동일하다.
 Controllability 개념이 더 상위 개념으로서 reachability를 포함하고 있다고 할 수 있다.
 
 Reachbility 개념은 특정 state 혹은 그를 포함하는 set을 기준으로 reachable 여부를 판단하지만, Controllability의 경우 초기치가 어떤 값이든지 0으로 보낼 수 있다면, 이는 어떤 state에든 reachable하다는 이야기가 된다.   
-예를 들어 어떤 state xf가 reachable 하다고 해도 controllable 하다 라고 이야기 할 수 없다. 하지만 controllable하다면 xf는 reachable하다.
+즉, 어떤 state xf가 reachable 하다고 해도 controllable 하다 라고 이야기 할 수 없다. 하지만 controllable하다면 xf는 reachable하다.
 
 [참고문헌1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/lecture-notes/MIT6_241JS11_lec20.pdf), [참고문헌2](http://www.cds.caltech.edu/~murray/courses/cds101/fa04/caltech/am04_ch5-24oct04.pdf). , [참고문헌3](https://see.stanford.edu/materials/lsoeldsee263/18-contr.pdf), [참고문헌4](http://sigpromu.org/steve/research/Systems_Theory.pdf)
