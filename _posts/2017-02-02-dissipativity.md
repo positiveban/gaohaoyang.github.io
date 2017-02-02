@@ -2,7 +2,7 @@
 layout: post
 title: "Dissipativity and Passivity"
 categories: 수학
-tags: Control Theory
+tags: Control-Theory
 excerpt: 소모성? 수동성?
 ---
 Robust control, Nonlinear system 을 공부할 때 반드시 나오는 개념 
