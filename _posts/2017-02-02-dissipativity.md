@@ -55,3 +55,5 @@ $$
 
 위의 예제에서는 시스템에 에너지를 소모하는 항(e.g., damping) 이 없음에도 불구하고 input 을 통해 에너지가 공급(혹은 y를 통해 소모)되지 않을 때 (u=0) Storage function 이 증가하지 않는다. 이는 시스템의 input이 bound 되어 있을 때, output도 bound 되어 있음을 이야기 하며, 이는 시스템이 안정함을 의미한다.  
 전기회로로 이해하자면, 회로에 active 소자 (energy source: current, voltage)가 없고, 수동소자(passive elements)인 R,L,C 만으로 이루어진 시스템으로 이해할 수 있다. 
+
+[참고문헌1](https://en.wikipedia.org/wiki/Dissipative_system) [참고문헌2](http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf) [참고문헌3](http://wolfweb.unr.edu/~fadali/EE776/Dissipativity.pdf) [참고문헌4](http://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwix_baJuvHRAhUDV7wKHU1rB14QFggqMAI&url=http%3A%2F%2Fwww.springer.com%2Fcda%2Fcontent%2Fdocument%2Fcda_downloaddocument%2F9781846288920-c1.pdf%3FSGWID%3D0-0-45-428706-p173734624&usg=AFQjCNFFfaXya_8rn71QZfwf2vkWPyHM8g)
