@@ -3,7 +3,6 @@ layout: post
 title: "State Space"
 categories: 수학
 tags: Linear-algebra
-date: 2016-10-05 10:00:00
 excerpt: "상태공간?"
 ---
 
