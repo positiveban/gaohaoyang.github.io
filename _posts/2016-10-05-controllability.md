@@ -2,7 +2,7 @@
 layout: post
 title: "Controllability"
 categories: 수학
-tags: Linear-algebra
+tags: Linear-algebra, Control-Theory
 date: 2016-10-05 10:00:00
 excerpt: "Controllable, Reachable."
 ---
