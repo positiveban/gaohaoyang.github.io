@@ -2,7 +2,7 @@
 layout: post
 title: "Dissipativity and Passivity"
 categories: 수학
-tags: Dissipativity, Passivity, Control Theory
+tags: Control Theory
 excerpt: 소모성? 수동성?
 ---
 Robust control, Nonlinear system 을 공부할 때 반드시 나오는 개념 
@@ -16,24 +16,26 @@ Passivity: 수동성
 
 간단한 Spring-Mass-Damper 시스템을 살펴보자.
 
+
 \begin{eqnarray}
-\dot{x}_1&=&x_2\\
-\dot{x}_2&=&-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\\
-y&=&x_2
+\dot{x}\_1&=&x\_2\\\\
+\dot{x}\_2&=&-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\\\\
+y&=&x\_2
 \end{eqnarray}
+
 
 위와 같은 spring-mass-damper 시스템에서의 에너지는 아래와 같이 운동에너지와 위치에너지의 합으로 나타내진다.
 
 $$
-V=\frac{1}{2}kx^2_1+\frac{1}{2}mx^2_2
+V=\frac{1}{2}kx\^2\_1+\frac{1}{2}mx^2\_2
 $$
 
 이와 같이 위의 시스템이 가지고 있는 에너지 함수를 Storage function 이라고 부르기도 한다. (에너지를 저장하고 있다하여 저장함수)  
 이러한 저장함수의 시간에 따른 변화량 (시간에 대한 미분)을 살펴보면
 
 \begin{eqnarray}
-\dot{V}=\begin{bmatrix}kx_1&mx_2\end{bmatrix}\begin{bmatrix}x_2\\-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\end{bmatrix}\\
-=-by^2+yf=w(t)
+\dot{V}=\begin{bmatrix}kx\_1&mx\_2\end{bmatrix}\begin{bmatrix}x\_2\\\\-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\end{bmatrix}\\
+=-by\^2+yf=w(t)
 \end{eqnarray}
 
 로 input과 output 의 관계식으로 나타나게 된다.
@@ -41,10 +43,10 @@ $$
 얻어진 input과 output 의 관계식을  *supply rate* \\(w(t)\\) 이라 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고]
 (http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf)
 $$
-V(t_1)-V(t_0)<=\int^{t_1}_{t_0}{w(t)}dt
+V(t\_1)-V(t\_0)<=\int\^{t\_1}_{t\_0}{w(t)}dt
 $$
 
-위 수식은 \\(t_0\\) 시점부터 \\(t_1\\) 시점까지의 에너지 변화량과 시스템에 공급된 에너지와의 관계를 나타냄을 알 수 있다.  
+위 수식은 \\(t\_0\\) 시점부터 \\(t\_1\\) 시점까지의 에너지 변화량과 시스템에 공급된 에너지와의 관계를 나타냄을 알 수 있다.  
 시스템의 에너지 변화량이 공급된 에너지량보다 작거나 같을 때, 우리는 해당 시스템을 소모적(dissipative) 이라고 이야기한다. 또한 위의 부등식을 dissipation inequality (소모 부등식) 이라 정의한다.
 
 위 spring-mass-damper 시스템에서 damping coefficient 가 0일 때(\\(b=0\\) supply rate \\(w(t)=yf\\) 가 된다. 이렇게 supply rate 가 input 과 output 의 곱의 형태이며, 해당 supply rate가 위의 소모부등식을 만족할 때, 시스템이 passive 하다. 라고 이야기한다.
