@@ -18,8 +18,8 @@ Passivity: 수동성
 
 
 \begin{eqnarray}
-\dot{x}\_1&=&x\_2\\\\
-\dot{x}\_2&=&-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\\\\
+\dot{x}\_1&=&x\_2\\
+\dot{x}\_2&=&-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\\
 y&=&x\_2
 \end{eqnarray}
 
