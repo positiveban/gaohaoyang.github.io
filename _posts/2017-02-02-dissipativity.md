@@ -18,8 +18,8 @@ Passivity: 수동성
 
 
 \begin{eqnarray}
-\dot{x}_1&=&x_2\\
-\dot{x}_2&=&-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\\
+\dot{x}_1&=&x_2\\\\
+\dot{x}_2&=&-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\\\\
 y&=&x_2
 \end{eqnarray}
 
@@ -34,16 +34,16 @@ $$
 이러한 저장함수의 시간에 따른 변화량 (시간에 대한 미분)을 살펴보면
 
 \begin{eqnarray}
-\dot{V}=\begin{bmatrix}kx\_1&mx\_2\end{bmatrix}\begin{bmatrix}x\_2\\\\-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\end{bmatrix}\\
+\dot{V}=\begin{bmatrix}kx\_1&mx\_2\end{bmatrix}\begin{bmatrix}x\_2\\\\-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\end{bmatrix}\\\\
 =-by^2+yf=w(t)
 \end{eqnarray}
 
 로 input과 output 의 관계식으로 나타나게 된다.
 
-얻어진 input과 output 의 관계식을  *supply rate* \\(w(t)\\) 이라 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고]
-(http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf)
+얻어진 input과 output 의 관계식을  *supply rate* \\(w(t)\\) 이라 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고](http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf)
+
 $$
-V(t\_1)-V(t\_0)<=\int^{t_1}_{t_0}{w(t)}dt
+V(t_1)-V(t_0)<=\int^{t_1}_{t_0}{w(t)}dt
 $$
 
 위 수식은 \\(t_0\\) 시점부터 \\(t_1\\) 시점까지의 에너지 변화량과 시스템에 공급된 에너지와의 관계를 나타냄을 알 수 있다.  
