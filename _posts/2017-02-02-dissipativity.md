@@ -18,16 +18,16 @@ Passivity: 수동성
 
 
 \begin{eqnarray}
-\dot{x}\_1&=&x\_2\\
-\dot{x}\_2&=&-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\\
-y&=&x\_2
+\dot{x}_1&=&x_2\\
+\dot{x}_2&=&-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\\
+y&=&x_2
 \end{eqnarray}
 
 
 위와 같은 spring-mass-damper 시스템에서의 에너지는 아래와 같이 운동에너지와 위치에너지의 합으로 나타내진다.
 
 $$
-V=\frac{1}{2}kx^2\_1+\frac{1}{2}mx^2\_2
+V=\frac{1}{2}kx^2_1+\frac{1}{2}mx^2_2
 $$
 
 이와 같이 위의 시스템이 가지고 있는 에너지 함수를 Storage function 이라고 부르기도 한다. (에너지를 저장하고 있다하여 저장함수)  
