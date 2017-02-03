@@ -10,7 +10,7 @@ icon: bookmark
 * W.K. Kwon, J. Ban, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, *accepted* 
 
 ### Conference Articles
-* J. Ban, W.K. Kwon, S.W. Kim, "  Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control", American Control Conference. IEEE, 2017.
+* J. Ban, W.K. Kwon, S.W. Kim, *Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control*, American Control Conference. IEEE, 2017.
 * Sang Jun Lee, Jaepil Ban, Hyeyeon Choi, and Sang Woo Kim. *Localization of slab identification numbers using deep learning.* Control, Automation and Systems (ICCAS), 2016 16th International Conference on. IEEE, 2016.
 * Kim, SungBin, Wookyong Kwon, Jaepil Ban, and Sangchul Won. *Decentralized H∞ control of large-scale descriptor systems using proportional-plus-derivative state feedback.* Control, Automation and Systems (ICCAS), 2015 15th International Conference on. IEEE, 2015.
 * Lee, Hyoung-woong, Jaepil Ban, and Sangchul Won. *Proportional multiple-integral observer based sliding mode control for linear systems with mismatched disturbance.* Control, Automation and Systems (ICCAS), 2015 15th International Conference on. IEEE, 2015.
