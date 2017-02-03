@@ -35,7 +35,7 @@ disqus_shortname: positiveban
 # google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 #kramdown:
 #  input: GFM
