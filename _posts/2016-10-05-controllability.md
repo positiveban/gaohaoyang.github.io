@@ -11,27 +11,27 @@ controllability 혹은 reachability란 어떤 system에 입력을 가해서 초�
 
 System의 dynamic equation으로부터 state transition matrix를 얻을 수 있는데, 보통 controllability (reachability)의 증명은 이 state transition의 관계식으로부터 시작된다.
 
-예를들어 Linear system의 경우 dynamic equation은 아래와 같이 나타낸다.
+예를들어 Linear system의 경우 dynamic equation은 일반적으로 아래와 같이 vector와 matrix를 이용해 나타낸다.
  
 $$
 \dot{x}=Ax+Bu
 $$
 
-(x: state, u: input, A,B: system matrices)
+(x: state vector, u: input vector, A,B: system matrices)
 
-이를 적분하면, 터미널시간 tf의 state는 아래와 같이 얻어질 수 있다.
+이를 적분하면, 터미널시간 $$t_f$$의 state는 아래와 같이 얻어질 수 있다.
 
 $$
 x(t_f)=e^{At}x(t_0)+\int_{t_0}^{t_f}{e^{At}B(\alpha)u(\alpha)}d\alpha
 $$
 
-위 수식 우변항에 있는 x(t0) term을 좌변항으로 넘기면,
+위 수식 우변항에 있는 $$e^{At}x(t_0)$$ 항를 좌변항으로 넘기면,
 
 $$
 x(t_f)-e^{At}x(t_0)=\int_{t_0}^{t_f}{e^{At}B(\alpha)u(\alpha)}d\alpha
 $$
 
-따라서 위 조건을 만족시키는 u가 존재하는지에 대한 해석이 controllability(or reachability) 이다.
+따라서 위 조건을 만족시키는 u가 존재하는지에 대한 해석이 controllability(or reachability) 이다. (위와 같은 선형시스템의 경우엔 vector $$x(t_f)-e^{At}x(t_0)\in$$ Range $$\{\e^{At}B(\alpha)\}_{t_0\le\alpha\le t_f}$$ 일 경우 controllable.)
 
 Linear time invariant(LTI) system에서는 쉽게 해석이 되지만, LTV system에서는 해석이 복잡하며, 새로운 유형의 system이 제안될 때마다 controllability issue는 필연적으로 일어나게 된다.
 
