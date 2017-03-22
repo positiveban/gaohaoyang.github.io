@@ -14,19 +14,21 @@ System의 dynamic equation으로부터 state transition matrix를 얻을 수 있
 예를들어 Linear system의 경우 dynamic equation은 아래와 같이 나타낸다.
  
 $$
-\\dot{x}=Ax+Bu
+\dot{x}=Ax+Bu
 $$
+
 (x: state, u: input, A,B: system matrices)
 
 이를 적분하면, 터미널시간 tf의 state는 아래와 같이 얻어질 수 있다.
 
 $$
-x(t\_f)=e^{At}x(t\_0)+\\int\_{t\_0}^{t\_f}{e^{At}B(\\alpha)u(\\alpha)}d\\alpha
+x(t_f)=e^{At}x(t_0)+\int_{t_0}^{t_f}{e^{At}B(\alpha)u(\alpha)}d\alpha
 $$
 
 위 수식 우변항에 있는 x(t0) term을 좌변항으로 넘기면,
+
 $$
-x(t\_f)-e^{At}x(t\_0)=\\int\_{t\_0}^{t\_f}{e^{At}B(\\alpha)u(\\alpha)}d\\alpha
+x(t_f)-e^{At}x(t_0)=\int_{t_0}^{t_f}{e^{At}B(\alpha)u(\alpha)}d\alpha
 $$
 
 따라서 위 조건을 만족시키는 u가 존재하는지에 대한 해석이 controllability(or reachability) 이다.
@@ -40,8 +42,8 @@ Continuous-time system에서 Controllability와 Reachability는 동일하다.
 
 다르게 정의하는 부분에 대해 살펴보면,
 
-* Reachability: 특정 state xf가 어떤 입력에 의해 원점으로부터 도달 가능하다면 Reachable.
-* Controllability: 아무 초기 state x0가 어떤 입력에 의해 원점으로 갈 수 있다면 Controllable.
+* Reachability: 특정 state $x_f$가 어떤 입력에 의해 원점으로부터 도달 가능하다면 Reachable.
+* Controllability: 아무 초기 state $x_0$가 어떤 입력에 의해 원점으로 갈 수 있다면 Controllable.
 
 매우 비슷해 보이지만 약간의 차이가 있다.  
 Controllability 개념이 더 상위 개념으로서 reachability를 포함하고 있다고 할 수 있다.
