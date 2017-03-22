@@ -31,7 +31,7 @@ $$
 x(t_f)-e^{At}x(t_0)=\int_{t_0}^{t_f}{e^{At}B(\alpha)u(\alpha)}d\alpha
 $$
 
-따라서 위 조건을 만족시키는 u가 존재하는지에 대한 해석이 controllability(or reachability) 이다. (위와 같은 선형시스템의 경우엔 vector $$x(t_f)-e^{At}x(t_0)\in$$ Range $$\{\e^{At}B(\alpha)\}_{t_0\le\alpha\le t_f}$$ 일 경우 controllable.)
+따라서 위 조건을 만족시키는 u가 존재하는지에 대한 해석이 controllability(or reachability) 이다. (위와 같은 선형시스템의 경우엔 vector $$x(t_f)-e^{At}x(t_0)\in$$ Range $$\{e^{At}B(\alpha)\}_{t_0\le\alpha\le t_f}$$ 일 경우 controllable.)
 
 Linear time invariant(LTI) system에서는 쉽게 해석이 되지만, LTV system에서는 해석이 복잡하며, 새로운 유형의 system이 제안될 때마다 controllability issue는 필연적으로 일어나게 된다.
 
