@@ -40,7 +40,7 @@ $$
 \end{eqnarray}
 $$
 
-위에서 input과 output 의 관계식을  *supply rate* $$w(t)=-\tilde{b}y(t)+y(t)f(t), \tilde{b}\le b$$ 이라고 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고](http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf)
+위의 관계식에 대해 *supply rate* 를 $$w(t)=-\tilde{b}y(t)+y(t)f(t), 0<\tilde{b}\le b$$ 이라고 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고](http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf)
 
 $$
 V(t_1)-V(t_0)\le\int^{t_1}_{t_0}{w(t)}dt
