@@ -7,7 +7,7 @@ icon: heart
 
 ## Jaepil Ban
 He received B.S. in Ajou Unversity in Korea. He is currently Ph.D Candidate of Eletrical Engineering Department of POSTECH in Korea.
-His research interests are robust control, hybrid systems and control, networked control systems, fuzzy control systems, neural networks, and LMI based controller design.
+His research interests are robust control, hybrid systems and control, networked control systems, fuzzy control systems, neural networks, LMI based controller design, large-scale power systems, and cyber-physical systems.
 
 * 2012~current:  Ph.D Candidate in POSTECH
 * 2004~2012:     B.S in Ajou University
