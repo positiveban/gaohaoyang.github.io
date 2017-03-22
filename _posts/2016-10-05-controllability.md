@@ -7,7 +7,7 @@ date: 2016-10-05 10:00:00
 excerpt: "Controllable, Reachable."
 ---
 
-controllability 혹은 reachability란 어떤 system에 입력을 가해서 초기 state x0로 부터 터미널 state xf 로 보낼 수 있는지에 대한 것이다.  
+controllability 혹은 reachability란 어떤 system에 입력을 가해서 초기 state $$x_0$$로 부터 터미널 state $$x_f$$ 로 보낼 수 있는지에 대한 것이다.  
 
 System의 dynamic equation으로부터 state transition matrix를 얻을 수 있는데, 보통 controllability (reachability)의 증명은 이 state transition의 관계식으로부터 시작된다.
 
