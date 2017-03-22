@@ -18,38 +18,38 @@ Passivity: 수동성
 
 $$
 \begin{eqnarray}
-\dot{x}\_1&=&x\_2\\\\
-\dot{x}\_2&=&-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\\\\
-y&=&x\_2
+\dot{x}_1&=&x\_2\\
+\dot{x}_2&=&-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\\
+y&=&x_2
 \end{eqnarray}
 $$
 
 위와 같은 spring-mass-damper 시스템에서의 에너지는 아래와 같이 운동에너지와 위치에너지의 합으로 나타내진다.
 
 $$
-V=\frac{1}{2}kx\^2\_1+\frac{1}{2}mx^2\_2
+V=\frac{1}{2}kx^2\_1+\frac{1}{2}mx^2_2
 $$
 
 이와 같이 위의 시스템이 가지고 있는 에너지 함수를 Storage function 이라고 부르기도 한다. (에너지를 저장하고 있다하여 저장함수)  
 이러한 저장함수의 시간에 따른 변화량 (시간에 대한 미분)을 살펴보면
 $$
 \begin{eqnarray}
-\dot{V}=\begin{bmatrix}kx\_1&mx\_2\end{bmatrix}\begin{bmatrix}x\_2\\\\-\frac{k}{m}x\_1-\frac{b}{m}x\_2+\frac{f}{m}\end{bmatrix}\\
-=-by\^2+yf
+\dot{V}&=&\begin{bmatrix}kx_1&mx_2\end{bmatrix}\begin{bmatrix}x_2\\-\frac{k}{m}x_1-\frac{b}{m}x_2+\frac{f}{m}\end{bmatrix}\\
+&=&-by^2+yf
 \end{eqnarray}
 $$
-여기서 함수 $$w(t)=y(t)f(t)$$ 와 같이 input과 output 의 관계식으로 정의해준다.
 
-위 input과 output 의 관계식을  *supply rate* \\(w(t)\\) 이라 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고]
+위에서 input과 output 의 관계식을  *supply rate* $$w(t)=y(t)f(t)$$ 이라고 정의하면, 아래와 같이 storage function과 supply rate 간의 관계를 얻어낼 수 있다. [참고]
 (http://control.ee.ethz.ch/~apnoco/Lectures2014/dissipativity.pdf)
+
 $$
-V(t\_1)-V(t\_0)<=\int\^{t\_1}_{t\_0}{w(t)}dt
+V(t_1)-V(t_0)\le\int^{t_1}_{t_0}{w(t)}dt
 $$
 
-위 수식은 \\(t_0\\) 시점부터 \\(t_1\\) 시점까지의 에너지 변화량과 시스템에 공급된 에너지와의 관계를 나타냄을 알 수 있다.  
+위 수식은 $$t_0$$ 시점부터 $$t_1$$ 시점까지의 에너지 변화량과 시스템에 공급된 에너지와의 관계를 나타냄을 알 수 있다.  
 시스템의 에너지 변화량이 공급된 에너지량보다 작거나 같을 때, 우리는 해당 시스템을 소모적(dissipative) 이라고 이야기한다. 또한 위의 부등식을 dissipation inequality (소모 부등식) 이라 정의한다.
 
-위 spring-mass-damper 시스템에서 damping coefficient 가 0일 때(\\(b=0\\)) supply rate \\(w(t)=yf\\) 가 된다. 이렇게 supply rate 가 input 과 output 의 곱의 형태이며, 해당 supply rate가 위의 소모부등식을 만족할 때, 시스템이 passive 하다. 라고 이야기한다.
+위 spring-mass-damper 시스템에서 damping coefficient 가 0일 때 $$(b=0)$$ supply rate \\(w(t)=yf\\) 가 된다. 이렇게 supply rate 가 input 과 output 의 곱의 형태이며, 해당 supply rate가 위의 소모부등식을 만족할 때, 시스템이 passive 하다. 라고 이야기한다.
 
 즉, passivity 는 dissipativity 의 특별케이스이다.
 
