@@ -6,16 +6,15 @@ icon: heart
 ---
 
 ## Jaepil Ban
-
-He is currently Ph.D Candidate of Eletrical Engineering Department of POSTECH in Korea.
-His research interest is Hybrid systems, Robust control, and Convex Optimization.
+He received B.S. in Ajou Unversity in Korea. He is currently Ph.D Candidate of Eletrical Engineering Department of POSTECH in Korea.
+His research interests are robust control, hybrid systems and control, networked control systems, fuzzy control systems, neural networks, and LMI based controller design.
 
 * 2012~current:  Ph.D Candidate in POSTECH
 * 2004~2012:     B.S in Ajou University
 
 ## Selected Publications
 * J. Ban, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", *submitted*
-* W.K. Kwon, J. Ban, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, *accepted* 
+* W.K. Kwon, J. Ban, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, vol. 2017, Article ID 7343575, 10 pages, 2017. doi:10.1155/2017/7343575 
 * J. Ban, W.K. Kwon, S.W. Kim, "  Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control", American Control Conference. IEEE, 2017.
 * J. Ban, W.K. Kwon, S.C. Won, "Fault estimation and fault-tolerant control of vapor compression cycle systems." Industrial Electronics Society, IECON 2015-41st Annual Conference of the IEEE. IEEE, 2015.
 
