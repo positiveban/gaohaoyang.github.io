@@ -7,7 +7,8 @@ icon: bookmark
 
 ### Journal Articles
 * J. Ban, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", *submitted*
-* W.K. Kwon, J. Ban, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, *accepted* 
+* S.H. Kim, M.S. Seo, J. Ban, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", ISIJ International, *accepted*
+* W.K. Kwon, J. Ban, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, 2017. 
 
 ### Conference Articles
 * J. Ban, W.K. Kwon, S.W. Kim, *Stability and L2-gain analysis of Impulsive Switched Systems with Average Dwell Time: Application to Hybrid Control*, American Control Conference. IEEE, 2017.
@@ -19,13 +20,13 @@ icon: bookmark
 * Ban, J., Lee, J., Won, S. *Synchronization of two different chaotic systems using terminal sliding mode with disturbance observer* (2013) Proceedings of the SICE Annual Conference, pp. 2575-2580. 
 
 ### Projects
-* ZRM 시뮬레이터 개발 및 제어알고리즘 개선, POSCO (17.03~current)
-* Lighting for Vision System 알고리즘 개발, 삼성중공업 (16.05~16.08)
-* PLC를 활용한 FM판쏠림 실시간 제어 기술 개발, POSCO (14.12~15.09)
-* 히트펌프 제어 알고리즘을 이용한 임베디드 보드 개발, BnF Solution (13.10~14.10)
-* 실내 기류제어를 위한 3차원 공간 온도분포 추정 알고리즘 개발, LG Electronics (13.01~13.12)
-* 1 Piston rotary compressor 구동을 위한 active torque controller 개발, LG Electronics (12.02~12.07)
-* Quadrotor UAV (11.03~11.12)
+* Development of ZRM Simulator and Improvement on Control algorithm, POSCO (17.06~current)
+* Lighting for Vision System Algorithm for Automatic welding in shipbuilding process, Samsung Heavy Industry (16.05~16.08)
+* Real-time control of Finishing mill for lateral movement of a strip by using Programmable logic controller(PLC), POSCO (14.12~15.09)
+* Embedded Controller and control algorithm for Heatpump, BnF Solution (13.10~14.10)
+* Estimation of 3-dimensional temperature distribution for indoor air-flow control, LG Electronics (13.01~13.12)
+* Active torque control for 1-Piston rotary compressor, LG Electronics (12.02~12.07)
+* Development of Sensing and Control algorithm of Quadrotor UAV (11.03~11.12)
 
 ### Talks
 
