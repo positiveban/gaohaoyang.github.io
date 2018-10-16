@@ -6,8 +6,9 @@ icon: bookmark
 ---
 
 ### Journal Articles
-* J. Ban, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", *submitted*
-* S.H. Kim, M.S. Seo, J. Ban, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", ISIJ International, *accepted*
+* J. Ban, M. Seo, T. Goh, H. Jeong, S.W. Kim, "Improved co-design of event-triggered dynamic output feedback controllers for linear systems", Automatica, *Under Review*
+* J. Ban, W.K. Kwon, S.W. Kim, "Robust H∞ finite-time control for discrete-time polytopic uncertain switched linear systems", Nonlinear Analysis: Hybrid Systems 29: 348-362, 2018.
+* S.H. Kim, M.S. Seo, J. Ban, N.W. Lee, S.W. Kim, "Mold Oscillation Feedforward Control Algorithm for Sinusoidal Oscillation of Various Asymmetries", ISIJ International, 57.11: 2016-2021, 2017.
 * W.K. Kwon, J. Ban, S.H. Han, C. Lee, S.C. Won, "Multicriteria adaptive observers for singular systems with unknown time-varying parameters", Mathematical Problems in Engineering, 2017. 
 
 ### Conference Articles
