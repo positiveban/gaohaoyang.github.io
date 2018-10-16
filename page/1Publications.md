@@ -21,7 +21,8 @@ icon: bookmark
 * Ban, J., Lee, J., Won, S. *Synchronization of two different chaotic systems using terminal sliding mode with disturbance observer* (2013) Proceedings of the SICE Annual Conference, pp. 2575-2580. 
 
 ### Projects
-* Development of ZRM Simulator and Improvement on Control algorithm, POSCO (17.06~current)
+* Design of Alpha Grid Platform and Research on Components technology (esp, Energy scheduling), KEPCO (18.03~Current)
+* Development of ZRM Simulator and Improvement on Control algorithm, POSCO (17.06~18.03)
 * Lighting for Vision System Algorithm for Automatic welding in shipbuilding process, Samsung Heavy Industry (16.05~16.08)
 * Real-time control of Finishing mill for lateral movement of a strip by using Programmable logic controller(PLC), POSCO (14.12~15.09)
 * Embedded Controller and control algorithm for Heatpump, BnF Solution (13.10~14.10)
