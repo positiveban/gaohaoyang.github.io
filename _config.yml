@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: APIMITAR
-brief-intro: Control and Systems Blog
+title: Jaepil Ban
+brief-intro: Control and Systems Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://positiveban.github.io" # the base hostname & protocol for your site
 encoding: utf-8
